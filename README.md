@@ -14,7 +14,7 @@
 Necesitarás instalar la última versión de `pygame` para ejecutar este proyecto. Puedes instalarla usando pip:
 
 ```bash
-pip install pygame
+python3 -m pip install -U pygame==2.6.0
 ```
 
 ## Cómo ejecutar el juego ▶️
